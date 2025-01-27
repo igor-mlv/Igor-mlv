@@ -4,7 +4,7 @@
 
 - **Location:** Ottawa, Canada 🇨🇦
 - **Role:** Full Stack Developer ⚒️
-- **Experience:** 3+ years in the IT industry ⚡
+- **Experience:** 4+ years in the IT industry ⚡
 - **Interests:** Enjoying and exploring new technologies 👨‍💻
 
 ### :hammer_and_wrench: Languages and Tools :
